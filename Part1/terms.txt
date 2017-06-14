@@ -1,0 +1,8 @@
+built-in 내장
+method 메쏘드
+working directory 작업 디렉토리
+iterable 반복 가능
+chain inequalities 사슬 부등식
+sequence 열
+container 콘테이너
+keyword 지정어
